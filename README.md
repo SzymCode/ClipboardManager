@@ -14,6 +14,14 @@ pip install tkinter, pyperclip
 
 • Enjoy your multi clipboard!
 
+# Usage
+• Double click on list - copy from ClipboardManager to clipboard.
+
+• Right click - open popup menu.
+
+• Select + Delete - delete item from list.
+
+
 
 
 
