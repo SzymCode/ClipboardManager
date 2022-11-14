@@ -2,7 +2,7 @@
 
 Small and simple ClipboardManager.
 
-# Instructions
+## Instructions
 • Download project files
 
 • Install tkinter, pyperclip
@@ -14,7 +14,7 @@ pip install tkinter, pyperclip
 
 • Enjoy your multi clipboard!
 
-# Usage
+## Usage
 • Double click on list - copy from ClipboardManager to clipboard.
 
 • Right click - open popup menu.
@@ -25,6 +25,6 @@ pip install tkinter, pyperclip
 
 
 
-# Preview image
+## Preview image
 
 ![app_preview](https://github.com/SzymCode/ClipboardManager/blob/main/images/preview.png)
